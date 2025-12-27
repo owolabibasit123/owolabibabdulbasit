@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @owolabibasit123
-- 👀 I’m interested coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on JavaScript 
+- 👋 Hi, I’m @owolabi abdulbasit
+- 👀 I’m penterstser
+- 💞️ I’m looking to collaborate on stoping and preventing cyber attacks
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
